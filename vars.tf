@@ -79,7 +79,7 @@ variable "PubSub2CIDR" {
 }
 
 variable "PubSub3CIDR" {
-  default = "172.21.9.0/24"
+  default = "172.21.3.0/24"
 }
 
 variable "PrivSub1CIDR" {
